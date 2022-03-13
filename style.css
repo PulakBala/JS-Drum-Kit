@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    color: rebeccapurple;
+    background-color: rgb(226, 196, 187);
+}
+.keys{
+    color: rgb(15, 14, 14);
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    background-color: rgb(225, 238, 237);
+    font-size: 15px;
+}
+.keys kbd{
+    color: blue;
+    font-size: 50px;
+}
